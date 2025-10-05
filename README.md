@@ -49,7 +49,7 @@ The tool checks these common service ports:
 ```bash
 sudo apt update
 sudo apt install nmap curl
-
+```
 ## License
 This project is licensed under the MIT License.
 
