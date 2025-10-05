@@ -12,7 +12,7 @@ NC='\033[0m'
 echo -e "${CYAN}"
 echo "╔══════════════════════════════════════╗"
 echo "║         WEAVE SCOPE SCANNER          ║"
-echo "║           PORT DISCOVERY             ║"
+echo "║          MehranTurk (M.T)            ║"
 echo "╚══════════════════════════════════════╝"
 echo -e "${NC}"
 
